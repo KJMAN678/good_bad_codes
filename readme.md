@@ -1,13 +1,13 @@
-# [良いコード、悪いコードで学ぶ設計入門](https://www.amazon.co.jp/%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%EF%BC%8F%E6%82%AA%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%AD%A6%E3%81%B6%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80%E2%80%95%E4%BF%9D%E5%AE%88%E3%81%97%E3%82%84%E3%81%99%E3%81%84-%E6%88%90%E9%95%B7%E3%81%97%E7%B6%9A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-%E4%BB%99%E5%A1%B2-%E5%A4%A7%E4%B9%9F-ebook/dp/B09Y1MWK9N/ref=sr_1_1?keywords=%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%2F%E6%82%AA%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%AD%A6%E3%81%B6%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80&qid=1664884818&qu=eyJxc2MiOiIxLjQ0IiwicXNhIjoiMS4xNyIsInFzcCI6IjEuMTMifQ%3D%3D&sprefix=%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%2Caps%2C276&sr=8-1) の写経 + Python / Rust化 をやる
+## [良いコード、悪いコードで学ぶ設計入門](https://www.amazon.co.jp/%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%EF%BC%8F%E6%82%AA%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%AD%A6%E3%81%B6%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80%E2%80%95%E4%BF%9D%E5%AE%88%E3%81%97%E3%82%84%E3%81%99%E3%81%84-%E6%88%90%E9%95%B7%E3%81%97%E7%B6%9A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-%E4%BB%99%E5%A1%B2-%E5%A4%A7%E4%B9%9F-ebook/dp/B09Y1MWK9N/ref=sr_1_1?keywords=%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%2F%E6%82%AA%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%AD%A6%E3%81%B6%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80&qid=1664884818&qu=eyJxc2MiOiIxLjQ0IiwicXNhIjoiMS4xNyIsInFzcCI6IjEuMTMifQ%3D%3D&sprefix=%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%2Caps%2C276&sr=8-1) の写経 + Python / Rust化 をやる
 
-# サンプルコード
+## サンプルコード
 
 - [サポートページ](https://gihyo.jp/book/2022/978-4-297-12783-1/support)
 - [サンプルコード zipファイル](https://gihyo.jp/book/2022/978-4-297-12783-1/support#:~:text=sample_2022%2D08%2D05.zip)
 
 ----- 以下、オリジナルの文章 ------
 
-# サンプルコード対応表
+## サンプルコード対応表
 
 本文記載のサンプルコード一覧です。
 
@@ -16,7 +16,7 @@
 
 ご了承ください。
 
-## 1章 悪しき構造の弊害を知覚する
+### 1章 悪しき構造の弊害を知覚する
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -26,7 +26,7 @@
 | 1.5 | src/chapter01_failuredesigndigest/dataclass/ContractAmount.java |
 | 1.6 | src/chapter01_failuredesigndigest/dataclass/ContractManager.java |
 
-## 2章 設計の初歩
+### 2章 設計の初歩
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -37,7 +37,7 @@
 | 2.6, 2.7, 2.8 | src/chapter02_designfirststep/hitpoint/v1/HitPointLogic.java |
 | 2.9 | src/chapter02_designfirststep/hitpoint/v2/HitPoint.java |
 
-## 3章 クラス設計 ―すべてにつながる設計の基盤―
+### 3章 クラス設計 ―すべてにつながる設計の基盤―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -45,7 +45,7 @@
 | 3.19 | src/chapter03_fundamentalofoop/Money.rb |
 | 3.20 | src/chapter03_fundamentalofoop/Money.js |
 
-## 4章 不変の活用 ―安定動作を構築する―
+### 4章 不変の活用 ―安定動作を構築する―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -64,7 +64,7 @@
 | 4.24 | src/chapter04_immutable/mutator/v1/ |
 | 4.25 | src/chapter04_immutable/mutator/v2/ |
 
-## 5章 低凝集 ―バラバラになったモノたち―
+### 5章 低凝集 ―バラバラになったモノたち―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -91,7 +91,7 @@
 | 5.29 | src/chapter05_lowcohesionseries/magic/v2/MagicPoint.java |
 | 5.31 | src/chapter05_lowcohesionseries/methodchain/Equipments.java |
 
-## 6章 条件分岐 ―迷宮化した分岐処理を解きほぐす技法―
+### 6章 条件分岐 ―迷宮化した分岐処理を解きほぐす技法―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -149,7 +149,7 @@
 | 6.65 | src/chapter06_conditionbranch/flagvariable/v3/DamageType.java |
 | 6.65 | src/chapter06_conditionbranch/flagvariable/v3/ApplyDamageLogic.java |
 
-## 7章 コレクション ―ネストを解消する構造化技法―
+### 7章 コレクション ―ネストを解消する構造化技法―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -164,7 +164,7 @@
 | 7.10 | src/chapter07_collection/party/v1/BattleManager.java |
 | 7.14 | src/chapter07_collection/party/v2/Party.java |
 
-## 8章 密結合 ―絡まって解きほぐせない構造―
+### 8章 密結合 ―絡まって解きほぐせない構造―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -201,7 +201,7 @@
 | 8.31 | src/chapter08_tightcoupling/selling/good/ShoppingPoint.java |
 | 8.32 | src/chapter08_tightcoupling/hugedata/Order.java |
 
-## 9章 設計の健全性をそこなうさまざまな悪魔たち
+### 9章 設計の健全性をそこなうさまざまな悪魔たち
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -216,7 +216,7 @@
 | 9.19 | src/chapter09_unhealthycode/usergenerate/User.java |
 | 9.20, 9.21 | src/chapter09_unhealthycode/usergenerate/GenerateLogic.java |
 
-## 10章 名前設計 ―あるべき構造を見破る名前―
+### 10章 名前設計 ―あるべき構造を見破る名前―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -235,7 +235,7 @@
 | 10.21 | src/chapter10_namedesign/booleanmethod/v1/Common.java |
 | 10.22 | src/chapter10_namedesign/booleanmethod/v2/Member.java |
 
-## 11章 コメント ―保守と変更の正確性を高める書き方―
+### 11章 コメント ―保守と変更の正確性を高める書き方―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -244,7 +244,8 @@
 | 11.5 | src/chapter11_comment/v3/Member.java |
 | 11.6 | src/chapter11_comment/v4/Member.java |
 | 11.7 | src/chapter11_comment/Money.java |
-## 12章 メソッド（関数） ―良きクラスには良きメソッドあり―
+
+### 12章 メソッド（関数） ―良きクラスには良きメソッドあり―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
@@ -258,7 +259,7 @@
 | 12.9 | src/chapter12_method/doublemeaning/v1/Location.java |
 | 12.10 | src/chapter12_method/doublemeaning/v2/Location.java |
 
-## 14章 リファクタリング ―既存コードを成長に導く技―
+### 14章 リファクタリング ―既存コードを成長に導く技―
 
 | 本文のリスト番号 | 対応ファイル |
 |:--|:--|
